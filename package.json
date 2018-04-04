@@ -1,0 +1,24 @@
+{
+  "name": "cosal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ncammarata/cosal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ncammarata/cosal/issues"
+  },
+  "homepage": "https://github.com/ncammarata/cosal#readme",
+  "dependencies": {
+    "compute-covariance": "^1.0.1",
+    "lodash": "^4.17.5",
+    "ml-matrix": "^5.0.1"
+  }
+}
